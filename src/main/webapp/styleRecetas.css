@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.flex-container {
+  display: flex;
+}
+
+.button-receta {
+  padding: 2px;
+  margin-right: 5px;
+}
